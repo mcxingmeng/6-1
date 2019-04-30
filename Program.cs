@@ -13,7 +13,7 @@ namespace _6_1
         private readonly int hight;
         public Cuboid(int _length, int _width, int _hight)
         {
-            this.hight = _length;
+            this.hight = _hight;
             this.width = _width;
             this.length = _length;
         }
